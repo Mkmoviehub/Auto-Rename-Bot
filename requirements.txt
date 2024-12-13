@@ -1,4 +1,4 @@
-plugin.web_support
+
 pyrogram==2.0.80
 TgCrypto
 motor
@@ -10,3 +10,4 @@ pytz
 humanize
 pyromod
 ffmpeg-python
+plugin.web_support
